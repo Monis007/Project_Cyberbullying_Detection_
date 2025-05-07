@@ -1,0 +1,15 @@
+pandas
+numpy
+tensorflow
+transformers
+scikit-learn
+nltk
+matplotlib
+xgboost
+vaderSentiment
+tf-keras
+huggingface_hub[hf_xet]
+hf_xet
+ipykernel
+torch
+torchvision
